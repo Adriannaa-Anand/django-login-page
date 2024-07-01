@@ -2,7 +2,7 @@
 
 This is a simple Django-based login and registration system with a responsive UI using Bootstrap and custom CSS. It demonstrates user authentication, including registration, login, and logout functionality.
 
-![Demo Screenshot](screenshot.png)  
+![Demo Screenshot](django-login-main/screenshot.png)  
 
 ## Features
 
